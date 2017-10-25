@@ -24,7 +24,7 @@ fox 43 has different ads and weather
 ![older](ScreenshotAIChangesOld.png)
 
 Huff post shows page with properly formmatted images and links and navigation bar
-![pretty page](http://wayback.archive-it.org/9545/20171009160519/https://www.huffingtonpost.com/2015/05/06/bsl-map_n_7216190.html)
+![pretty page](ScreenshotAIPrettyPage.png)
 
 __Disadvantages__ 
 
@@ -54,8 +54,10 @@ It recorded the AD
 __Disadvantages__ 
 
 takes much more time to collect. Would only work for small collections, but would work well.
+
 When an error occurs it will still save that- bad data taking up space
 ![Error Page](ScreenshotWRErrorPage.png)
+
 Using the native browser to replay can show different things.
 
 Chrome:
